@@ -10,6 +10,8 @@ public class Main {
 		
 		Rettangolo uno = new Rettangolo();
 		
+		
+		
 		System.out.println("Inserisci la base del rettangolo: ");
 		uno.base = scan.nextInt();
 		System.out.println("Inserisci l'altezza del rettangolo: ");
